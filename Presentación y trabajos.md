@@ -8,7 +8,7 @@
 santiagopsanchez/santiagopsanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-*Marketing proyects for real clients at the University*:
+*Marketing projects for real clients at the University*:
 
 [KIM - Informe táctico.pdf](https://github.com/santiagopsanchez/santiagopsanchez/files/8664654/KIM.-.Informe.tactico.pdf)
 
